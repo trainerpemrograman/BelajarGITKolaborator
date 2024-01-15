@@ -3,11 +3,9 @@
 ## Nama Peserta Trainer backend dan Asal serta nama Kampus
 
 1. Muhammad Ari Mahfudho - Demak - Universitas Muhammadiyah Surakarta
-2. Ahmad Safrizal - Grobogan - Universitas Ivet
-3. Yoga Ade Pangestu
+2. Ahmad Safrizal - Grobogan
+3. Yoga Ade Pangestu - Sukoharjo
 4. Michael Shawn Azaria - Pati - Universitas Kristen Satya Wacana
-5. Syahrial Mubarok - Boyolali - UMS
-4. Michael Shawn Azaria - Pati
-5. Syahrial Mubarok
+5. Syahrial Mubarok = Universitas Cendrawasih
 6. Kevin Marchelino - semarang
 7. Hafidz Qasthalaniy - Blora - Universitas Semarang
