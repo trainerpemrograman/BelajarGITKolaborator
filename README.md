@@ -7,5 +7,5 @@
 3. Yoga Ade Pangestu
 4. Michael Shawn Azaria
 5. Syahrial Mubarok
-6.
+6. Kevin Marchelino
 7.
