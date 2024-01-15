@@ -3,7 +3,7 @@
 ## Nama Peserta Trainer backend dan Asal
 
 1. Muhammad Ari Mahfudho
-2. Ahmad Safrizal
+2. Ahmad Safrizal - Grobogan
 3. Yoga Ade Pangestu
 4. Michael Shawn Azaria
 5. Syahrial Mubarok
