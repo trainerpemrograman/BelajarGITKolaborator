@@ -1,6 +1,6 @@
 #Belajar GIT Kolaborator
 
-## Nama Peserta Trainer backend dan Asal
+## Nama Peserta Trainer backend dan Asal serta nama Kampus
 
 1. Muhammad Ari Mahfudho
 2. Ahmad Safrizal - Grobogan
