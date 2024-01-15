@@ -4,7 +4,7 @@
 
 1. Muhammad Ari Mahfudho
 2. Ahmad Safrizal
-3.
+3. Yoga Ade Pangestu
 4.
 5.
 6.
