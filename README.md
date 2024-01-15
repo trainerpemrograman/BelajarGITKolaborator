@@ -8,4 +8,4 @@
 4. Michael Shawn Azaria - Pati - Universitas Kristen Satya Wacana
 5. Syahrial Mubarok - Boyolali - UMS
 6. Kevin Marchelino - semarang
-7. Hafidz Qasthalaniy - Blora
+7. Hafidz Qasthalaniy - Blora - Universitas Semarang
